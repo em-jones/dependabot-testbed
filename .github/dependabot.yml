@@ -9,7 +9,7 @@ updates:
     directory: "/docker" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "18:12"
+      time: "18:39"
     ignore:
       - dependency-name: "node"
         versions: ["19.x"]
