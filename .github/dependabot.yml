@@ -10,6 +10,6 @@ updates:
     schedule:
       interval: "daily"
       time: "18:12"
-    allow:
+    ignore:
       - dependency-name: "node"
-        versions: ["18.x"]
+        versions: ["19.x"]
